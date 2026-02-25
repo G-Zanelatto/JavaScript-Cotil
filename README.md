@@ -1,2 +1,2 @@
 # JavaScript-Cotil
-Exercícios de JavaScript no COTIL
+Exercícios de JavaScript no COTIL e Prática de Exercícios.
