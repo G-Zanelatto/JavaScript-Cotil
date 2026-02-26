@@ -1,8 +1,8 @@
-const readlineSync = require('readline-sync'); 
-let nome = readlineSync.question('Digite seu nome: '); 
+function ePar(numero) {
+    if (numero % 2 === 0) {
+        return true;
+    } else {
+        return false;
+    }
+}
 
-const exibirNome = function() {
-    console.log(nome);
-};
-
-exibirNome();
